@@ -9,4 +9,5 @@ public class Cat extends Animal{
     public void sayColour(){
         System.out.println("Meine Farbe ist: " + this.getColour());
     }
+    //Hello little message from brother!  ☆*:.｡.o(≧▽≦)o.｡.:*☆
 }
